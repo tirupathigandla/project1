@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>change commits</h2>
+<h2>integrate commits</h2>
 </body>
 </html>
